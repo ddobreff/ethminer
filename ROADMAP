@@ -1,0 +1,8 @@
+Simple Roadmap of what is done so far and whats about to be.
+1. API server / DONE /
+2. Hardware monitoring / DONE /
+3. New OpenCL faster kernel / Partial /
+4. Watchdog monitoring / TBD /
+5. Binary kernel loading / TBD /
+6. Code refactoring / TBD /
+To be continued...
